@@ -1,5 +1,6 @@
 # Real Time Sign Language Detection with Tensorflow Object Detection and Python | Deep Learning SSD
 
+build an end-to-end custom object detection model that allows you to translate sign language in real time into text. 
 
 STEPS
 1. Collect images for deep learning using your webcam and OpenCV
